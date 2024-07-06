@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imrana Yasmin</h1>
-<h3 align="center">A passionate Data Analyst and BI Developer</h3>
+<h3 align="center">Data Analyst and BI Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
 
