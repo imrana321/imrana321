@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imrana Yasmin</h1>
 <h3 align="center">A passionate Data Analyst and BI Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQJMoGD1F3CqFEyzd_izvv0TmVsfKNrgPWlg&s](https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif)">
+<img align="right" alt="Coding" width="450" src="https://www.finereport.com/en/wp-content/themes/blogs/images/2019072201A.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrana321&label=Profile%20views&color=0e75b6&style=flat" alt="imrana321" /> </p>
 
